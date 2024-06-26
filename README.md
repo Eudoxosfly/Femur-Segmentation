@@ -2,21 +2,21 @@
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/savenger/xray_segmentation]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+In this project we were given x ray images of the lower body / pelvis area. The images were in NIfTI format and providing labels of different bone types e.g. femur. The goal was to be able to do image segmentation and successfully segment out the femur bones in an x ray image.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Image Classification / Image Segmentation
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** U-net
+- **Evaluation Metric:** Dice-Coefficient
+- **Result:** [99,4% accuracy, Dice of 96,3%]
 
 ## Documentation
 
