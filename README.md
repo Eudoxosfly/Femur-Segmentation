@@ -16,7 +16,7 @@ Image Classification / Image Segmentation
 
 - **Best Model:** U-net
 - **Evaluation Metric:** Dice-Coefficient
-- **Result:** [99,4% accuracy, Dice of 96,3%]
+- **Result:** Dice of 96,5%
 
 ## Documentation
 
