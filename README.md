@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/savenger/xray_segmentation]
+[https://github.com/Eudoxosfly/Femur-Segmentation]
 
 ## Description
 
